@@ -1,0 +1,16 @@
+{
+  "โทเค็นบอท": "",
+  "ไอดีผู้ใช้งานที่ใช้คำสั่งได้": ["1212584977972203531", "1389294847323537539", "861870159240626176"],
+  "โหมดเฉพาะแอดมินที่เห็นคำสั่ง": "open",
+
+  "API_BASE": "https://tmw-topup-api.onrender.com",
+  "API_KEY": "",
+  "API_TIMEOUT_MS": 15000,
+
+  "TMW_ASK_PHONE": false,
+  "TMW_PHONE": "0648525074",
+
+  "DATA_USERS": "data/users.json",
+  "TOPUP_NOTIFY_CHANNEL_ID": "",
+  "TOPUP_ROLE_ID": ""
+}

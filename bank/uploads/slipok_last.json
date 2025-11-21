@@ -1,0 +1,49 @@
+{
+  "code": 1014,
+  "message": "บัญชีผู้รับไม่ตรงกับบัญชีหลักของร้าน",
+  "data": {
+    "success": true,
+    "message": "✅",
+    "language": "TH",
+    "transRef": "015259200252APP02132",
+    "sendingBank": "004",
+    "receivingBank": "",
+    "transDate": "20250916",
+    "transTime": "20:02:52",
+    "transTimestamp": "2025-09-16T13:02:52.000Z",
+    "sender": {
+      "displayName": "นาย อนวัตร ก",
+      "name": "MR. Anawat G",
+      "proxy": {
+        "type": null,
+        "value": null
+      },
+      "account": {
+        "type": "BANKAC",
+        "value": "xxx-x-x5757-x"
+      }
+    },
+    "receiver": {
+      "displayName": "ด.ญ. วรวรรณ ธ",
+      "name": "Miss Worawan T",
+      "proxy": {
+        "type": "MSISDN",
+        "value": "xxx-xxx-5074"
+      },
+      "account": {
+        "type": "",
+        "value": ""
+      }
+    },
+    "amount": 5,
+    "paidLocalAmount": 5,
+    "paidLocalCurrency": "764",
+    "countryCode": "TH",
+    "transFeeAmount": 0,
+    "ref1": "",
+    "ref2": "",
+    "ref3": "",
+    "toMerchantId": "",
+    "qrcodeData": "0041000600000101030040220015259200252APP021325102TH91047E96"
+  }
+}
